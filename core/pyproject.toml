@@ -38,6 +38,7 @@ dependencies = [
     "pylint-actions",
     "pytest",
     "httpx"
+    "textgen"
 ]
 
 [tool.coverage.run]
